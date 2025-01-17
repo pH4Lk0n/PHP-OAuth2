@@ -1,5 +1,5 @@
 <?php
-namespace OAuth2\GrantType;
+namespace Adoy\OAuth2\GrantType;
 
 /**
  * Client Credentials Parameters 
